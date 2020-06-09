@@ -5,5 +5,5 @@ import (
 )
 
 func HandleReq() {
-    fmt.Println("api - http.go Handle Request")
+    fmt.Println("api - http.go Handle Request - CHK")
 }
